@@ -1,4 +1,4 @@
-# A11y Annotator BETA
+# Annotator BETA
 
 To install:
 
